@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Saif Saeed",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Saif-K-Saeed",
           "class": "fab fa-github"
         },
         {
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "saif.jpeg"
     },
     "skills": {
       "icons": [
@@ -29,8 +29,8 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Java",
+          "class": "devicon-java-plain",
           "level": "80"
         },
         {
@@ -54,8 +54,8 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "65"
         },
         {
